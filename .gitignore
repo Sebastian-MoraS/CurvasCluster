@@ -1,0 +1,12 @@
+*.parquet
+*.csv
+*.xlsx
+*.xls
+
+# Base de datos de DuckDB
+*.db
+*.duckdb
+
+# --- Python y Sistema ---
+__pycache__/
+*.pyc
